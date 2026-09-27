@@ -64,3 +64,7 @@ streamizer/
 Streamizer operates at the container level. It does not re-encode video or audio, so the media streams themselves remain unchanged.
 
 The script is designed to be safe to run repeatedly: files that are already optimized are skipped.
+
+## License
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for the full license text.
